@@ -1,0 +1,2 @@
+# livedoornews-topicmodel
+livedoorニュースコーパスの記事をトピックモデルで分類する
